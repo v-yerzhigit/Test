@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueueTask", "IQueueTask\IQueueTask.csproj", "{D41C7688-ABA8-4E0F-961D-70830EBBC0BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast", "WeatherForecast\WeatherForecast.csproj", "{B9EA9BF8-3E0A-4D27-8EE3-FB4AC366F73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueueTaskTests", "IQueueTaskTests\IQueueTaskTests.csproj", "{F27206EC-53F3-436A-9036-78F0837B2641}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5CE8788A-E2C8-4DDA-85D8-D3298A6E5343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D41C7688-ABA8-4E0F-961D-70830EBBC0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D41C7688-ABA8-4E0F-961D-70830EBBC0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D41C7688-ABA8-4E0F-961D-70830EBBC0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D41C7688-ABA8-4E0F-961D-70830EBBC0BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F27206EC-53F3-436A-9036-78F0837B2641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F27206EC-53F3-436A-9036-78F0837B2641}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F27206EC-53F3-436A-9036-78F0837B2641}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F27206EC-53F3-436A-9036-78F0837B2641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EA9BF8-3E0A-4D27-8EE3-FB4AC366F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EA9BF8-3E0A-4D27-8EE3-FB4AC366F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EA9BF8-3E0A-4D27-8EE3-FB4AC366F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EA9BF8-3E0A-4D27-8EE3-FB4AC366F73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE8788A-E2C8-4DDA-85D8-D3298A6E5343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE8788A-E2C8-4DDA-85D8-D3298A6E5343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE8788A-E2C8-4DDA-85D8-D3298A6E5343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE8788A-E2C8-4DDA-85D8-D3298A6E5343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
