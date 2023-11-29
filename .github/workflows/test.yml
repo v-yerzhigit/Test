@@ -1,0 +1,15 @@
+name: Test/Test
+on:
+  push:
+    branches:
+    - master
+env:
+  buildConfiguration: Release
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: dotnet build ${{ env.buildConfiguration }}
+      uses: actions/setup-dotnet@v3.2.0
+      with: {}
+      env: {}
